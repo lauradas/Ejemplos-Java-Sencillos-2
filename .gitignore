@@ -1,0 +1,9 @@
+# Cuando sincronicemos nuestro repositorio, vamos a ignorar los ficheros de texto
+*.txt
+
+# También se ignorarán las copias de seguridad
+*.bak
+
+# Y los archivos de código abierto
+*.class
+
