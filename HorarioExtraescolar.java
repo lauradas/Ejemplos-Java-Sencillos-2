@@ -32,5 +32,6 @@ public class HorarioExtraescolar {
 			System.out.println("\033[31mDía erróneo\033[0m");	
 		}
 	}
+	//He hecho una modificación en mi código
 
 }
